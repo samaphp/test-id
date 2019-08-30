@@ -1,0 +1,21 @@
+{
+    "name": "samaphp/test-id",
+    "description": "Test.",
+    "keywords": ["test"],
+    "version": "1.0.0",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Saud bin mohammed",
+            "email": "saud@samaphp.com",
+            "homepage": "https://samaphp.com",
+            "role": "Software engineer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+    },
+    "autoload": {
+        "psr-0": { "samaphp\\validateSAID": "" }
+    }
+}
