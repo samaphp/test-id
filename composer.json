@@ -2,8 +2,7 @@
     "name": "samaphp/test-id",
     "description": "Test.",
     "keywords": ["test"],
-    "version": "1.0.0",
-    "license": "GPL",
+    "license": "GPL-2.0-only",
     "authors": [
         {
             "name": "Saud bin mohammed",
