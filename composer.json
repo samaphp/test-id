@@ -1,6 +1,6 @@
 {
     "name": "samaphp/test-id",
-    "description": "Test.",
+    "description": "Test composer package. It is a mirror of top7up/ID github repo. For testing only! Please do not use this package.",
     "keywords": ["test"],
     "license": "GPL-2.0-only",
     "authors": [
